@@ -1,4 +1,5 @@
 h1 {
+<<<<<<< HEAD
     color: lightgreen;
     }
 h2 {
@@ -9,3 +10,10 @@ h2 {
   <a href="#">Link</a>
   <a href="#">Link</a>
 </div>
+=======
+    color: black;
+    }
+h2 {
+  color: black; font-size: 45px;
+}
+>>>>>>> 25ca7acf3e8815e88ce1f5e2e640f2664e381b59
