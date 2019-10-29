@@ -1,11 +1,6 @@
 h1 {
-    color: lightgreen;
+    color: rgba(255, 0, 0, 0.8);;
+  text-align: center;
     }
-h2 {
-  color:  lightgreen;
-}
-h3 {
-  color: darkgreen;
-  background-color: white;
-}
+
  
