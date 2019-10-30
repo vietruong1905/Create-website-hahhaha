@@ -1,6 +1,10 @@
 h1 {
-    color: rgba(255, 0, 0, 0.8);;
+    color: rgb(0, 0, 255);
   text-align: center;
+  background-color:  none;
     }
-
- 
+h3{
+  colo:rgb(0, 0, 255);
+  text-align: center;
+  background-color: none;
+}
